@@ -8,6 +8,10 @@ Me gusta crear soluciones ⚡ y trabajar en equipo 👯.
 
 Mis valores personales son la responsabilidad, la honestidad, la gratitud, el espíritu de servicio y la resiliencia 💪.
 
+Tech Skills:
+
+JavaScript, HTML, CSS, React.JS, Node.JS, Redux, Express, PostsgreSQL, Github.
+
 Contáctame:
 
 Email: williamcortes.co@gmail.com <br/>
