@@ -1,7 +1,7 @@
 
-<img src="https://media.ma-no.org/img/960-400/admin-352111-PAR7S3-904.jpg" alt='Laptop'>
+<img src="https://media.ma-no.org/img/960-400/admin-352111-PAR7S3-904.jpg" width='400px' alt='Laptop'>
 ### Hola 👋
-<!--
+
 Hola mi nombre es ✨ William, ✨  Full Stack Developer. Me encanta aprender y descubrir nuevos caminos.
 
 Me gusta crear soluciones ⚡ y trabajar en equipo 👯.
@@ -13,6 +13,6 @@ Contáctame:
 Email: williamcortes.co@gmail.com
 Github: https://github.com/WilliamCortes
 Whatsapp: +57- 310 329 83 46
+
 **WilliamCortes/WilliamCortes** 
 
--->
