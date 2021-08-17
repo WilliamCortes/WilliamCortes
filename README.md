@@ -10,9 +10,10 @@ Mis valores personales son la responsabilidad, la honestidad, la gratitud, el es
 
 Contáctame:
 
-Email: williamcortes.co@gmail.com
-Github: https://github.com/WilliamCortes
-Whatsapp: +57- 310 329 83 46
+Email: williamcortes.co@gmail.com <br/>
+Github: https://github.com/WilliamCortes<br/>
+LinkedIn: https://www.linkedin.com/in/williamcortesr/<br/>
+Whatsapp: +57- 310 329 83 46<br/><br/><br/>
 
 **WilliamCortes/WilliamCortes** 
 
