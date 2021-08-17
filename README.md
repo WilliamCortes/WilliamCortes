@@ -14,7 +14,7 @@ Email: williamcortes.co@gmail.com <br/>
 Github: https://github.com/WilliamCortes<br/>
 LinkedIn: https://www.linkedin.com/in/williamcortesr/<br/>
 Whatsapp: +57- 310 329 83 46<br/><br/><br/>
-<source src="https://www.youtube.com/embed/OlYdKWZcR5g" >
+
 
 **WilliamCortes/WilliamCortes** 
 
